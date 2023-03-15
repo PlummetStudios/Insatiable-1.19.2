@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:dirt"
+    },
+    {
+      "item": "insatiable:bug_guts"
+    },
+    {
+      "item": "insatiable:strange_meat"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "insatiable:bug_stew",
+    "count": 1
+  }
+}

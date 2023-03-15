@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#B#",
+    "SWS",
+    "#B#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "B": {
+      "item": "insatiable:bug_guts"
+    },
+    "S": {
+      "item": "minecraft:spider_eye"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "result": {
+    "item": "insatiable:spider_cookie",
+    "count": 3
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "insatiable:meat_pie"
+    },
+    "title": "Ms. Lovette",
+    "description": "Make a delicious yet questionable meat pie!",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:husbandry/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "insatiable:meat_pie"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

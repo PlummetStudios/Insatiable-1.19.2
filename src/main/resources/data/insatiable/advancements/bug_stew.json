@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "insatiable:bug_stew"
+    },
+    "title": "Slimey... yet satisfying",
+    "description": "Mix together some interesting ingredients for a last resort meal... bottoms up!",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:husbandry/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "insatiable:bug_stew"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

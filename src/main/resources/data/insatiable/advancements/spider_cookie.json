@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "insatiable:spider_cookie"
+    },
+    "title": "Late Night Snackin'",
+    "description": "Obtain a spider cookie, a delicious snack best served while its nighttime.",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:husbandry/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "insatiable:spider_cookie"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
