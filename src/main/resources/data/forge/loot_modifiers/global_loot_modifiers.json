@@ -1,6 +1,27 @@
 {
   "entries": [
-    "insatiable:polar_bear.json"
+    "insatiable:polar_bear",
+    "insatiable:polar_bear_cooked",
+    "insatiable:horse",
+    "insatiable:horse_cooked",
+    "insatiable:llama",
+    "insatiable:llama_cooked",
+    "insatiable:donkey",
+    "insatiable:donkey_cooked",
+    "insatiable:trader_llama",
+    "insatiable:trader_llama_cooked",
+    "insatiable:cat",
+    "insatiable:cat_cooked",
+    "insatiable:fox",
+    "insatiable:fox_cooked",
+    "insatiable:wolf",
+    "insatiable:wolf_cooked",
+    "insatiable:panda",
+    "insatiable:panda_cooked",
+    "insatiable:ocelot",
+    "insatiable:ocelot_cooked",
+    "insatiable:strider",
+    "insatiable:strider_cooked"
   ],
   "replace": false
 }

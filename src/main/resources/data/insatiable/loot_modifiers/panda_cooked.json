@@ -3,18 +3,18 @@
   "conditions": [
     {
       "condition": "forge:loot_table_id",
-      "loot_table_id": "minecraft:entities/polar_bear"
+      "loot_table_id": "minecraft:entities/panda"
     },
     {
       "condition": "minecraft:entity_properties",
       "entity": "this",
       "predicate": {
         "flags": {
-          "is_on_fire": false
+          "is_on_fire": true
         }
       }
     }
   ],
-  "loot_table_id": "insatiable:entities/large_game_animal",
+  "loot_table_id": "insatiable:entities/large_cooked_game_animal",
   "allow_recursive_glms": true
 }

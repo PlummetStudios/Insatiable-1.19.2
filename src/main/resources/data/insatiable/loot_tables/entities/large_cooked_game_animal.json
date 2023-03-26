@@ -5,13 +5,13 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "insatiable:raw_game_meat",
+          "name": "insatiable:cooked_game_meat",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 4,
-                "max": 6
+                "min": 6,
+                "max": 8
               }
             }
           ]

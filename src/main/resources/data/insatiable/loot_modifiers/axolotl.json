@@ -1,0 +1,11 @@
+{
+  "type": "insatiable:loot_injection",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:entities/axolotl"
+    }
+  ],
+  "loot_table_id": "insatiable:entities/small_light_animal",
+  "allow_recursive_glms": true
+}

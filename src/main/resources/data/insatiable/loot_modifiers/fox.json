@@ -3,7 +3,7 @@
   "conditions": [
     {
       "condition": "forge:loot_table_id",
-      "loot_table_id": "minecraft:entities/polar_bear"
+      "loot_table_id": "minecraft:entities/fox"
     },
     {
       "condition": "minecraft:entity_properties",
@@ -15,6 +15,6 @@
       }
     }
   ],
-  "loot_table_id": "insatiable:entities/large_game_animal",
+  "loot_table_id": "insatiable:entities/small_game_animal",
   "allow_recursive_glms": true
 }
