@@ -3,7 +3,7 @@
   "conditions": [
     {
       "condition": "forge:loot_table_id",
-      "loot_table_id": "minecraft:entities/axolotl"
+      "loot_table_id": "minecraft:entities/turtle"
     },
     {
       "condition": "minecraft:entity_properties",
@@ -15,6 +15,6 @@
       }
     }
   ],
-  "loot_table_id": "insatiable:entities/small_light_animal",
+  "loot_table_id": "insatiable:entities/medium_light_animal",
   "allow_recursive_glms": true
 }

@@ -21,7 +21,14 @@
     "insatiable:ocelot",
     "insatiable:ocelot_cooked",
     "insatiable:strider",
-    "insatiable:strider_cooked"
+    "insatiable:strider_cooked",
+    "insatiable:frog",
+    "insatiable:frog_cooked",
+    "insatiable:axolotl",
+    "insatiable:axolotl_cooked",
+    "insatiable:turtle",
+    "insatiable:turtle_cooked"
+
   ],
   "replace": false
 }

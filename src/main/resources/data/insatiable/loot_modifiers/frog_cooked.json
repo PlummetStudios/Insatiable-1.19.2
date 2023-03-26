@@ -3,18 +3,18 @@
   "conditions": [
     {
       "condition": "forge:loot_table_id",
-      "loot_table_id": "minecraft:entities/axolotl"
+      "loot_table_id": "minecraft:entities/frog"
     },
     {
       "condition": "minecraft:entity_properties",
       "entity": "this",
       "predicate": {
         "flags": {
-          "is_on_fire": false
+          "is_on_fire": true
         }
       }
     }
   ],
-  "loot_table_id": "insatiable:entities/small_light_animal",
+  "loot_table_id": "insatiable:entities/small_cooked_light_animal",
   "allow_recursive_glms": true
 }

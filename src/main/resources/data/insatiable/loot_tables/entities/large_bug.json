@@ -5,13 +5,13 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "insatiable:cooked_game_meat",
+          "name": "insatiable:bug_guts",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 4,
-                "max": 6
+                "min": 3,
+                "max": 5
               }
             }
           ]
