@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/carpet",
+  "textures": {
+    "wool": "insatiable:block/animal_pelt_block"
+  }
+}

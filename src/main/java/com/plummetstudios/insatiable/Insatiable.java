@@ -1,5 +1,6 @@
 package com.plummetstudios.insatiable;
 
+import com.plummetstudios.insatiable.common.item.ModBlocks;
 import com.plummetstudios.insatiable.common.item.ModItems;
 import com.plummetstudios.insatiable.common.registers.RegisterHandler;
 import net.minecraftforge.common.MinecraftForge;
@@ -28,6 +29,7 @@ public class Insatiable
         ModItems.register(eventBus);
         eventBus.addListener(this::setup);
         RegisterHandler.init();
+        ModBlocks.register(eventBus);
         // Register the enqueueIMC method for modloading
 
         // Register ourselves for server and other game events we are interested in

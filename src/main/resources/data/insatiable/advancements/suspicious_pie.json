@@ -1,15 +1,15 @@
 {
   "display": {
     "icon": {
-      "item": "insatiable:meat_pie"
+      "item": "insatiable:suspicious_pie"
     },
-    "title": "Worst Pies in London",
-    "description": "Meat Pies, a nice way to mask the texture of game meat...",
+    "title": "Ms. Lovette",
+    "description": "Meat Pies, a nice way to mask the texture and taste of...",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "minecraft:husbandry/root",
+  "parent": "insatiable:meat_pie",
   "criteria": {
     "requirement": {
       "trigger": "minecraft:inventory_changed",
@@ -17,7 +17,7 @@
         "items": [
           {
             "items": [
-              "insatiable:meat_pie"
+              "insatiable:suspicious_pie"
             ]
           }
         ]

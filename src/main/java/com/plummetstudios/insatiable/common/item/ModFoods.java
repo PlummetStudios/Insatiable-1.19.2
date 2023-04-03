@@ -17,6 +17,8 @@ public class ModFoods {
 
     public static final FoodProperties MEAT_PIE = (new FoodProperties.Builder()).nutrition(8).saturationMod(1F).meat().build();
 
+    public static final FoodProperties SUSPICIOUS_PIE = (new FoodProperties.Builder()).nutrition(8).saturationMod(1F).effect(new MobEffectInstance(MobEffects.DIG_SLOWDOWN, 1000, 0), 1F).meat().build();
+
 
 
 

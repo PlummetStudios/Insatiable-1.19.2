@@ -1,0 +1,20 @@
+{
+  "type": "insatiable:loot_injection",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:entities/squid"
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "flags": {
+          "is_on_fire": false
+        }
+      }
+    }
+  ],
+  "loot_table_id": "insatiable:entities/medium_cooked_light_animal",
+  "allow_recursive_glms": true
+}

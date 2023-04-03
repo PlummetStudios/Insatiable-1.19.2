@@ -1,0 +1,11 @@
+{
+  "type": "insatiable:loot_injection",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:entities/cave_spider"
+    }
+  ],
+  "loot_table_id": "insatiable:entities/medium_bug",
+  "allow_recursive_glms": true
+}

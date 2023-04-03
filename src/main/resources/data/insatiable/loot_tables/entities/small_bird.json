@@ -5,13 +5,13 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "insatiable:strange_meat",
+          "name": "minecraft:raw_chicken",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 2,
-                "max": 4
+                "min": 0,
+                "max": 1
               }
             }
           ]

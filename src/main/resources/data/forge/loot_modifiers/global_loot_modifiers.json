@@ -27,7 +27,18 @@
     "insatiable:axolotl",
     "insatiable:axolotl_cooked",
     "insatiable:turtle",
-    "insatiable:turtle_cooked"
+    "insatiable:turtle_cooked",
+    "insatiable:bat",
+    "insatiable:spider",
+    "insatiable:cave_spider",
+    "insatiable:silverfish",
+    "insatiable:bee",
+    "insatiable:villager",
+    "insatiable:pillager",
+    "insatiable:vindicator",
+    "insatiable:ravager",
+    "insatiable:evoker"
+
 
   ],
   "replace": false

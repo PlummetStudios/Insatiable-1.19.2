@@ -1,4 +1,17 @@
 {
+  "item.insatiable.animal_pelt": "Animal Pelt",
+  "item.insatiable.pelt_helmet": "Pelt Hood",
+  "item.insatiable.pelt_chestplate": "Pelt Chestplate",
+  "item.insatiable.pelt_leggings": "Pelt Pants",
+  "item.insatiable.pelt_boots": "Pelt Boots",
+
+  "block.insatiable.animal_pelt_block": "Pelt Block",
+
+  "block.insatiable.animal_pelt_carpet": "Pelt Carpet",
+
+
+  "item.insatiable.lunch_box": "Lunch Box",
+
   "item.insatiable.raw_game_meat": "Raw Game Meat",
 
   "item.insatiable.cooked_game_meat": "Cooked Game Meat",
@@ -17,10 +30,14 @@
 
   "item.insatiable.meat_pie": "Meat Pie",
 
+  "item.insatiable.suspicious_pie": "Meat Pie",
+
   "item.insatiable.spider_cookie": "Spider Cookie",
 
   "item.insatiable.bug_stew": "Bug Stew",
 
+
+  "itemGroup.insatiable_tab": "Insatiable",
   "tooltip.insatiable.spider_cookie.tooltip": "Terrible food source in the day but is better than steak when eaten at night or during storms."
 
 }
